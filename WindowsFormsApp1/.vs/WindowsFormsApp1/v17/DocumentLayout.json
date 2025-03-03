@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\selcu\\OneDrive\\Desktop\\VisiualProjee\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1457F701-BE8F-4ADA-B9C8-11985C75D605}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\selcu\\onedrive\\desktop\\visiualprojee\\windowsformsapp1\\windowsformsapp1\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1457F701-BE8F-4ADA-B9C8-11985C75D605}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1457F701-BE8F-4ADA-B9C8-11985C75D605}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\selcu\\onedrive\\desktop\\visiualprojee\\windowsformsapp1\\windowsformsapp1\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1457F701-BE8F-4ADA-B9C8-11985C75D605}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1457F701-BE8F-4ADA-B9C8-11985C75D605}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\selcu\\onedrive\\desktop\\visiualprojee\\windowsformsapp1\\windowsformsapp1\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1457F701-BE8F-4ADA-B9C8-11985C75D605}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnaForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\selcu\\OneDrive\\Desktop\\VisiualProjee\\WindowsFormsApp1\\WindowsFormsApp1\\AnaForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\AnaForm.cs",
+              "ToolTip": "C:\\Users\\selcu\\OneDrive\\Desktop\\VisiualProjee\\WindowsFormsApp1\\WindowsFormsApp1\\AnaForm.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "WindowsFormsApp1\\AnaForm.cs [Tasar\u0131m]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:56:25.036Z",
+              "IsPinned": true,
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileName.cs",
+              "DocumentMoniker": "C:\\Users\\selcu\\OneDrive\\Desktop\\VisiualProjee\\WindowsFormsApp1\\WindowsFormsApp1\\FileName.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\FileName.cs",
+              "ToolTip": "C:\\Users\\selcu\\OneDrive\\Desktop\\VisiualProjee\\WindowsFormsApp1\\WindowsFormsApp1\\FileName.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\FileName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:07:24.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnaForm.cs",
+              "DocumentMoniker": "C:\\Users\\selcu\\OneDrive\\Desktop\\VisiualProjee\\WindowsFormsApp1\\WindowsFormsApp1\\AnaForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\AnaForm.cs",
+              "ToolTip": "C:\\Users\\selcu\\OneDrive\\Desktop\\VisiualProjee\\WindowsFormsApp1\\WindowsFormsApp1\\AnaForm.cs*",
+              "RelativeToolTip": "WindowsFormsApp1\\AnaForm.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:04:27.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

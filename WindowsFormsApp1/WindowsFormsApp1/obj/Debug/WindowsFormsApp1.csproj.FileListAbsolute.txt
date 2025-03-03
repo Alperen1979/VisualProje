@@ -1,0 +1,11 @@
+C:\Users\selcu\OneDrive\Desktop\VisiualProjee\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\selcu\OneDrive\Desktop\VisiualProjee\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\selcu\OneDrive\Desktop\VisiualProjee\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\selcu\OneDrive\Desktop\VisiualProjee\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\selcu\OneDrive\Desktop\VisiualProjee\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\selcu\OneDrive\Desktop\VisiualProjee\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\selcu\OneDrive\Desktop\VisiualProjee\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\selcu\OneDrive\Desktop\VisiualProjee\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\selcu\OneDrive\Desktop\VisiualProjee\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\selcu\OneDrive\Desktop\VisiualProjee\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AnaForm.resources
+C:\Users\selcu\OneDrive\Desktop\VisiualProjee\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Spin_The_Wheel.Main.resources
